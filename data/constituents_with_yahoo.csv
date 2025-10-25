@@ -1,0 +1,624 @@
+symbol,name,index,yahoo,status
+MMM,3M,USA,MMM,ok
+AOS,A. O. Smith,USA,AOS,ok
+ABT,Abbott Laboratories,USA,ABT,ok
+ABBV,AbbVie,USA,ABBV,ok
+ACN,Accenture,USA,ACN,ok
+ADBE,Adobe Inc.,USA,ADBE,ok
+AMD,Advanced Micro Devices,USA,AMD,ok
+AES,AES Corporation,USA,AES,ok
+AFL,Aflac,USA,AFL,ok
+A,Agilent Technologies,USA,A,ok
+APD,Air Products,USA,APD,ok
+ABNB,Airbnb,USA,ABNB,ok
+AKAM,Akamai Technologies,USA,AKAM,ok
+ALB,Albemarle Corporation,USA,ALB,ok
+ARE,Alexandria Real Estate Equities,USA,ARE,ok
+ALGN,Align Technology,USA,ALGN,ok
+ALLE,Allegion,USA,ALLE,ok
+LNT,Alliant Energy,USA,LNT,ok
+ALL,Allstate,USA,ALL,ok
+GOOGL,Alphabet Inc. (Class A),USA,GOOGL,ok
+GOOG,Alphabet Inc. (Class C),USA,GOOG,ok
+MO,Altria,USA,MO,ok
+AMZN,Amazon,USA,AMZN,ok
+AMCR,Amcor,USA,AMCR,ok
+AEE,Ameren,USA,AEE,ok
+AEP,American Electric Power,USA,AEP,ok
+AXP,American Express,USA,AXP,ok
+AIG,American International Group,USA,AIG,ok
+AMT,American Tower,USA,AMT,ok
+AWK,American Water Works,USA,AWK,ok
+AMP,Ameriprise Financial,USA,AMP,ok
+AME,Ametek,USA,AME,ok
+AMGN,Amgen,USA,AMGN,ok
+APH,Amphenol,USA,APH,ok
+ADI,Analog Devices,USA,ADI,ok
+AON,Aon plc,USA,AON,ok
+APA,APA Corporation,USA,APA,ok
+APO,Apollo Global Management,USA,APO,ok
+AAPL,Apple Inc.,USA,AAPL,ok
+AMAT,Applied Materials,USA,AMAT,ok
+APTV,Aptiv,USA,APTV,ok
+ACGL,Arch Capital Group,USA,ACGL,ok
+ADM,Archer Daniels Midland,USA,ADM,ok
+ANET,Arista Networks,USA,ANET,ok
+AJG,Arthur J. Gallagher & Co.,USA,AJG,ok
+AIZ,Assurant,USA,AIZ,ok
+T,AT&T,USA,T,ok
+ATO,Atmos Energy,USA,ATO,ok
+ADSK,Autodesk,USA,ADSK,ok
+ADP,Automatic Data Processing,USA,ADP,ok
+AZO,AutoZone,USA,AZO,ok
+AVB,AvalonBay Communities,USA,AVB,ok
+AVY,Avery Dennison,USA,AVY,ok
+AXON,Axon Enterprise,USA,AXON,ok
+BKR,Baker Hughes,USA,BKR,ok
+BALL,Ball Corporation,USA,BALL,ok
+BAC,Bank of America,USA,BAC,ok
+BAX,Baxter International,USA,BAX,ok
+BDX,Becton Dickinson,USA,BDX,ok
+BBY,Best Buy,USA,BBY,ok
+TECH,Bio-Techne,USA,TECH,ok
+BIIB,Biogen,USA,BIIB,ok
+BLK,BlackRock,USA,BLK,ok
+BX,Blackstone Inc.,USA,BX,ok
+XYZ,"Block, Inc.",USA,XYZ,ok
+BK,BNY Mellon,USA,BK,ok
+BA,Boeing,USA,BA,ok
+BKNG,Booking Holdings,USA,BKNG,ok
+BSX,Boston Scientific,USA,BSX,ok
+BMY,Bristol Myers Squibb,USA,BMY,ok
+AVGO,Broadcom,USA,AVGO,ok
+BR,Broadridge Financial Solutions,USA,BR,ok
+BRO,Brown & Brown,USA,BRO,ok
+BLDR,Builders FirstSource,USA,BLDR,ok
+BG,Bunge Global,USA,BG,ok
+BXP,"BXP, Inc.",USA,BXP,ok
+CHRW,C.H. Robinson,USA,CHRW,ok
+CDNS,Cadence Design Systems,USA,CDNS,ok
+CZR,Caesars Entertainment,USA,CZR,ok
+CPT,Camden Property Trust,USA,CPT,ok
+CPB,Campbell's Company (The),USA,CPB,ok
+COF,Capital One,USA,COF,ok
+CAH,Cardinal Health,USA,CAH,ok
+KMX,CarMax,USA,KMX,ok
+CCL,Carnival,USA,CCL,ok
+CARR,Carrier Global,USA,CARR,ok
+CAT,Caterpillar Inc.,USA,CAT,ok
+CBOE,Cboe Global Markets,USA,CBOE,ok
+CBRE,CBRE Group,USA,CBRE,ok
+CDW,CDW Corporation,USA,CDW,ok
+COR,Cencora,USA,COR,ok
+CNC,Centene Corporation,USA,CNC,ok
+CNP,CenterPoint Energy,USA,CNP,ok
+CF,CF Industries,USA,CF,ok
+CRL,Charles River Laboratories,USA,CRL,ok
+SCHW,Charles Schwab Corporation,USA,SCHW,ok
+CHTR,Charter Communications,USA,CHTR,ok
+CVX,Chevron Corporation,USA,CVX,ok
+CMG,Chipotle Mexican Grill,USA,CMG,ok
+CB,Chubb Limited,USA,CB,ok
+CHD,Church & Dwight,USA,CHD,ok
+CI,Cigna,USA,CI,ok
+CINF,Cincinnati Financial,USA,CINF,ok
+CTAS,Cintas,USA,CTAS,ok
+CSCO,Cisco,USA,CSCO,ok
+C,Citigroup,USA,C,ok
+CFG,Citizens Financial Group,USA,CFG,ok
+CLX,Clorox,USA,CLX,ok
+CME,CME Group,USA,CME,ok
+CMS,CMS Energy,USA,CMS,ok
+KO,Coca-Cola Company (The),USA,KO,ok
+CTSH,Cognizant,USA,CTSH,ok
+COIN,Coinbase,USA,COIN,ok
+CL,Colgate-Palmolive,USA,CL,ok
+CMCSA,Comcast,USA,CMCSA,ok
+CAG,Conagra Brands,USA,CAG,ok
+COP,ConocoPhillips,USA,COP,ok
+ED,Consolidated Edison,USA,ED,ok
+STZ,Constellation Brands,USA,STZ,ok
+CEG,Constellation Energy,USA,CEG,ok
+COO,Cooper Companies (The),USA,COO,ok
+CPRT,Copart,USA,CPRT,ok
+GLW,Corning Inc.,USA,GLW,ok
+CPAY,Corpay,USA,CPAY,ok
+CTVA,Corteva,USA,CTVA,ok
+CSGP,CoStar Group,USA,CSGP,ok
+COST,Costco,USA,COST,ok
+CTRA,Coterra,USA,CTRA,ok
+CRWD,CrowdStrike,USA,CRWD,ok
+CCI,Crown Castle,USA,CCI,ok
+CSX,CSX Corporation,USA,CSX,ok
+CMI,Cummins,USA,CMI,ok
+CVS,CVS Health,USA,CVS,ok
+DHR,Danaher Corporation,USA,DHR,ok
+DRI,Darden Restaurants,USA,DRI,ok
+DDOG,Datadog,USA,DDOG,ok
+DVA,DaVita,USA,DVA,ok
+DAY,Dayforce,USA,DAY,ok
+DECK,Deckers Brands,USA,DECK,ok
+DE,Deere & Company,USA,DE,ok
+DELL,Dell Technologies,USA,DELL,ok
+DAL,Delta Air Lines,USA,DAL,ok
+DVN,Devon Energy,USA,DVN,ok
+DXCM,Dexcom,USA,DXCM,ok
+FANG,Diamondback Energy,USA,FANG,ok
+DLR,Digital Realty,USA,DLR,ok
+DG,Dollar General,USA,DG,ok
+DLTR,Dollar Tree,USA,DLTR,ok
+D,Dominion Energy,USA,D,ok
+DPZ,Domino's,USA,DPZ,ok
+DASH,DoorDash,USA,DASH,ok
+DOV,Dover Corporation,USA,DOV,ok
+DOW,Dow Inc.,USA,DOW,ok
+DHI,D. R. Horton,USA,DHI,ok
+DTE,DTE Energy,USA,DTE,ok
+DUK,Duke Energy,USA,DUK,ok
+DD,DuPont,USA,DD,ok
+EMN,Eastman Chemical Company,USA,EMN,ok
+ETN,Eaton Corporation,USA,ETN,ok
+EBAY,eBay Inc.,USA,EBAY,ok
+ECL,Ecolab,USA,ECL,ok
+EIX,Edison International,USA,EIX,ok
+EW,Edwards Lifesciences,USA,EW,ok
+EA,Electronic Arts,USA,EA,ok
+ELV,Elevance Health,USA,ELV,ok
+EMR,Emerson Electric,USA,EMR,ok
+ENPH,Enphase Energy,USA,ENPH,ok
+ETR,Entergy,USA,ETR,ok
+EOG,EOG Resources,USA,EOG,ok
+EPAM,EPAM Systems,USA,EPAM,ok
+EQT,EQT Corporation,USA,EQT,ok
+EFX,Equifax,USA,EFX,ok
+EQIX,Equinix,USA,EQIX,ok
+EQR,Equity Residential,USA,EQR,ok
+ERIE,Erie Indemnity,USA,ERIE,ok
+ESS,Essex Property Trust,USA,ESS,ok
+EL,Estee Lauder Companies (The),USA,EL,ok
+EG,Everest Group,USA,EG,ok
+EVRG,Evergy,USA,EVRG,ok
+ES,Eversource Energy,USA,ES,ok
+EXC,Exelon,USA,EXC,ok
+EXE,Expand Energy,USA,EXE,ok
+EXPE,Expedia Group,USA,EXPE,ok
+EXPD,Expeditors International,USA,EXPD,ok
+EXR,Extra Space Storage,USA,EXR,ok
+XOM,ExxonMobil,USA,XOM,ok
+FFIV,"F5, Inc.",USA,FFIV,ok
+FDS,FactSet,USA,FDS,ok
+FICO,Fair Isaac,USA,FICO,ok
+FAST,Fastenal,USA,FAST,ok
+FRT,Federal Realty Investment Trust,USA,FRT,ok
+FDX,FedEx,USA,FDX,ok
+FIS,Fidelity National Information Services,USA,FIS,ok
+FITB,Fifth Third Bancorp,USA,FITB,ok
+FSLR,First Solar,USA,FSLR,ok
+FE,FirstEnergy,USA,FE,ok
+FI,Fiserv,USA,FI,ok
+F,Ford Motor Company,USA,F,ok
+FTNT,Fortinet,USA,FTNT,ok
+FTV,Fortive,USA,FTV,ok
+FOXA,Fox Corporation (Class A),USA,FOXA,ok
+FOX,Fox Corporation (Class B),USA,FOX,ok
+BEN,Franklin Resources,USA,BEN,ok
+FCX,Freeport-McMoRan,USA,FCX,ok
+GRMN,Garmin,USA,GRMN,ok
+IT,Gartner,USA,IT,ok
+GE,GE Aerospace,USA,GE,ok
+GEHC,GE HealthCare,USA,GEHC,ok
+GEV,GE Vernova,USA,GEV,ok
+GEN,Gen Digital,USA,GEN,ok
+GNRC,Generac,USA,GNRC,ok
+GD,General Dynamics,USA,GD,ok
+GIS,General Mills,USA,GIS,ok
+GM,General Motors,USA,GM,ok
+GPC,Genuine Parts Company,USA,GPC,ok
+GILD,Gilead Sciences,USA,GILD,ok
+GPN,Global Payments,USA,GPN,ok
+GL,Globe Life,USA,GL,ok
+GDDY,GoDaddy,USA,GDDY,ok
+GS,Goldman Sachs,USA,GS,ok
+HAL,Halliburton,USA,HAL,ok
+HIG,Hartford (The),USA,HIG,ok
+HAS,Hasbro,USA,HAS,ok
+HCA,HCA Healthcare,USA,HCA,ok
+DOC,Healthpeak Properties,USA,DOC,ok
+HSIC,Henry Schein,USA,HSIC,ok
+HSY,Hershey Company (The),USA,HSY,ok
+HPE,Hewlett Packard Enterprise,USA,HPE,ok
+HLT,Hilton Worldwide,USA,HLT,ok
+HOLX,Hologic,USA,HOLX,ok
+HD,Home Depot (The),USA,HD,ok
+HON,Honeywell,USA,HON,ok
+HRL,Hormel Foods,USA,HRL,ok
+HST,Host Hotels & Resorts,USA,HST,ok
+HWM,Howmet Aerospace,USA,HWM,ok
+HPQ,HP Inc.,USA,HPQ,ok
+HUBB,Hubbell Incorporated,USA,HUBB,ok
+HUM,Humana,USA,HUM,ok
+HBAN,Huntington Bancshares,USA,HBAN,ok
+HII,Huntington Ingalls Industries,USA,HII,ok
+IBM,IBM,USA,IBM,ok
+IEX,IDEX Corporation,USA,IEX,ok
+IDXX,Idexx Laboratories,USA,IDXX,ok
+ITW,Illinois Tool Works,USA,ITW,ok
+INCY,Incyte,USA,INCY,ok
+IR,Ingersoll Rand,USA,IR,ok
+PODD,Insulet Corporation,USA,PODD,ok
+INTC,Intel,USA,INTC,ok
+IBKR,Interactive Brokers,USA,IBKR,ok
+ICE,Intercontinental Exchange,USA,ICE,ok
+IFF,International Flavors & Fragrances,USA,IFF,ok
+IP,International Paper,USA,IP,ok
+IPG,Interpublic Group of Companies (The),USA,IPG,ok
+INTU,Intuit,USA,INTU,ok
+ISRG,Intuitive Surgical,USA,ISRG,ok
+IVZ,Invesco,USA,IVZ,ok
+INVH,Invitation Homes,USA,INVH,ok
+IQV,IQVIA,USA,IQV,ok
+IRM,Iron Mountain,USA,IRM,ok
+JBHT,J.B. Hunt,USA,JBHT,ok
+JBL,Jabil,USA,JBL,ok
+JKHY,Jack Henry & Associates,USA,JKHY,ok
+J,Jacobs Solutions,USA,J,ok
+JNJ,Johnson & Johnson,USA,JNJ,ok
+JCI,Johnson Controls,USA,JCI,ok
+JPM,JPMorgan Chase,USA,JPM,ok
+K,Kellanova,USA,K,ok
+KVUE,Kenvue,USA,KVUE,ok
+KDP,Keurig Dr Pepper,USA,KDP,ok
+KEY,KeyCorp,USA,KEY,ok
+KEYS,Keysight Technologies,USA,KEYS,ok
+KMB,Kimberly-Clark,USA,KMB,ok
+KIM,Kimco Realty,USA,KIM,ok
+KMI,Kinder Morgan,USA,KMI,ok
+KKR,KKR & Co.,USA,KKR,ok
+KLAC,KLA Corporation,USA,KLAC,ok
+KHC,Kraft Heinz,USA,KHC,ok
+KR,Kroger,USA,KR,ok
+LHX,L3Harris,USA,LHX,ok
+LH,Labcorp,USA,LH,ok
+LRCX,Lam Research,USA,LRCX,ok
+LW,Lamb Weston,USA,LW,ok
+LVS,Las Vegas Sands,USA,LVS,ok
+LDOS,Leidos,USA,LDOS,ok
+LEN,Lennar,USA,LEN,ok
+LII,Lennox International,USA,LII,ok
+LLY,Lilly (Eli),USA,LLY,ok
+LIN,Linde plc,USA,LIN,ok
+LYV,Live Nation Entertainment,USA,LYV,ok
+LKQ,LKQ Corporation,USA,LKQ,ok
+LMT,Lockheed Martin,USA,LMT,ok
+L,Loews Corporation,USA,L,ok
+LOW,Lowe's,USA,LOW,ok
+LULU,Lululemon Athletica,USA,LULU,ok
+LYB,LyondellBasell,USA,LYB,ok
+MTB,M&T Bank,USA,MTB,ok
+MPC,Marathon Petroleum,USA,MPC,ok
+MKTX,MarketAxess,USA,MKTX,ok
+MAR,Marriott International,USA,MAR,ok
+MMC,Marsh McLennan,USA,MMC,ok
+MLM,Martin Marietta Materials,USA,MLM,ok
+MAS,Masco,USA,MAS,ok
+MA,Mastercard,USA,MA,ok
+MTCH,Match Group,USA,MTCH,ok
+MKC,McCormick & Company,USA,MKC,ok
+MCD,McDonald's,USA,MCD,ok
+MCK,McKesson Corporation,USA,MCK,ok
+MDT,Medtronic,USA,MDT,ok
+MRK,Merck & Co.,USA,MRK,ok
+META,Meta Platforms,USA,META,ok
+MET,MetLife,USA,MET,ok
+MTD,Mettler Toledo,USA,MTD,ok
+MGM,MGM Resorts,USA,MGM,ok
+MCHP,Microchip Technology,USA,MCHP,ok
+MU,Micron Technology,USA,MU,ok
+MSFT,Microsoft,USA,MSFT,ok
+MAA,Mid-America Apartment Communities,USA,MAA,ok
+MRNA,Moderna,USA,MRNA,ok
+MHK,Mohawk Industries,USA,MHK,ok
+MOH,Molina Healthcare,USA,MOH,ok
+TAP,Molson Coors Beverage Company,USA,TAP,ok
+MDLZ,Mondelez International,USA,MDLZ,ok
+MPWR,Monolithic Power Systems,USA,MPWR,ok
+MNST,Monster Beverage,USA,MNST,ok
+MCO,Moody's Corporation,USA,MCO,ok
+MS,Morgan Stanley,USA,MS,ok
+MOS,Mosaic Company (The),USA,MOS,ok
+MSI,Motorola Solutions,USA,MSI,ok
+MSCI,MSCI Inc.,USA,MSCI,ok
+NDAQ,"Nasdaq, Inc.",USA,NDAQ,ok
+NTAP,NetApp,USA,NTAP,ok
+NFLX,Netflix,USA,NFLX,ok
+NEM,Newmont,USA,NEM,ok
+NWSA,News Corp (Class A),USA,NWSA,ok
+NWS,News Corp (Class B),USA,NWS,ok
+NEE,NextEra Energy,USA,NEE,ok
+NKE,"Nike, Inc.",USA,NKE,ok
+NI,NiSource,USA,NI,ok
+NDSN,Nordson Corporation,USA,NDSN,ok
+NSC,Norfolk Southern,USA,NSC,ok
+NTRS,Northern Trust,USA,NTRS,ok
+NOC,Northrop Grumman,USA,NOC,ok
+NCLH,Norwegian Cruise Line Holdings,USA,NCLH,ok
+NRG,NRG Energy,USA,NRG,ok
+NUE,Nucor,USA,NUE,ok
+NVDA,Nvidia,USA,NVDA,ok
+NVR,"NVR, Inc.",USA,NVR,ok
+NXPI,NXP Semiconductors,USA,NXPI,ok
+ORLY,O Reilly Automotive,USA,ORLY,ok
+OXY,Occidental Petroleum,USA,OXY,ok
+ODFL,Old Dominion,USA,ODFL,ok
+OMC,Omnicom Group,USA,OMC,ok
+ON,ON Semiconductor,USA,ON,ok
+OKE,Oneok,USA,OKE,ok
+ORCL,Oracle Corporation,USA,ORCL,ok
+OTIS,Otis Worldwide,USA,OTIS,ok
+PCAR,Paccar,USA,PCAR,ok
+PKG,Packaging Corporation of America,USA,PKG,ok
+PLTR,Palantir Technologies,USA,PLTR,ok
+PANW,Palo Alto Networks,USA,PANW,ok
+PSKY,Paramount Skydance Corporation,USA,PSKY,ok
+PH,Parker Hannifin,USA,PH,ok
+PAYX,Paychex,USA,PAYX,ok
+PAYC,Paycom,USA,PAYC,ok
+PYPL,PayPal,USA,PYPL,ok
+PNR,Pentair,USA,PNR,ok
+PEP,PepsiCo,USA,PEP,ok
+PFE,Pfizer,USA,PFE,ok
+PCG,PG&E Corporation,USA,PCG,ok
+PM,Philip Morris International,USA,PM,ok
+PSX,Phillips 66,USA,PSX,ok
+PNW,Pinnacle West Capital,USA,PNW,ok
+PNC,PNC Financial Services,USA,PNC,ok
+POOL,Pool Corporation,USA,POOL,ok
+PPG,PPG Industries,USA,PPG,ok
+PPL,PPL Corporation,USA,PPL,ok
+PFG,Principal Financial Group,USA,PFG,ok
+PG,Procter & Gamble,USA,PG,ok
+PGR,Progressive Corporation,USA,PGR,ok
+PLD,Prologis,USA,PLD,ok
+PRU,Prudential Financial,USA,PRU,ok
+PEG,Public Service Enterprise Group,USA,PEG,ok
+PTC,PTC Inc.,USA,PTC,ok
+PSA,Public Storage,USA,PSA,ok
+PHM,PulteGroup,USA,PHM,ok
+PWR,Quanta Services,USA,PWR,ok
+QCOM,Qualcomm,USA,QCOM,ok
+DGX,Quest Diagnostics,USA,DGX,ok
+RL,Ralph Lauren Corporation,USA,RL,ok
+RJF,Raymond James Financial,USA,RJF,ok
+RTX,RTX Corporation,USA,RTX,ok
+O,Realty Income,USA,O,ok
+REG,Regency Centers,USA,REG,ok
+REGN,Regeneron Pharmaceuticals,USA,REGN,ok
+RF,Regions Financial Corporation,USA,RF,ok
+RSG,Republic Services,USA,RSG,ok
+RMD,ResMed,USA,RMD,ok
+RVTY,Revvity,USA,RVTY,ok
+ROK,Rockwell Automation,USA,ROK,ok
+ROL,"Rollins, Inc.",USA,ROL,ok
+ROP,Roper Technologies,USA,ROP,ok
+ROST,Ross Stores,USA,ROST,ok
+RCL,Royal Caribbean Group,USA,RCL,ok
+SPGI,S&P Global,USA,SPGI,ok
+CRM,Salesforce,USA,CRM,ok
+SBAC,SBA Communications,USA,SBAC,ok
+SLB,Schlumberger,USA,SLB,ok
+STX,Seagate Technology,USA,STX,ok
+SRE,Sempra,USA,SRE,ok
+NOW,ServiceNow,USA,NOW,ok
+SHW,Sherwin-Williams,USA,SHW,ok
+SPG,Simon Property Group,USA,SPG,ok
+SWKS,Skyworks Solutions,USA,SWKS,ok
+SJM,J.M. Smucker Company (The),USA,SJM,ok
+SW,Smurfit Westrock,USA,SW,ok
+SNA,Snap-on,USA,SNA,ok
+SOLV,Solventum,USA,SOLV,ok
+SO,Southern Company,USA,SO,ok
+LUV,Southwest Airlines,USA,LUV,ok
+SWK,Stanley Black & Decker,USA,SWK,ok
+SBUX,Starbucks,USA,SBUX,ok
+STT,State Street Corporation,USA,STT,ok
+STLD,Steel Dynamics,USA,STLD,ok
+STE,Steris,USA,STE,ok
+SYK,Stryker Corporation,USA,SYK,ok
+SMCI,Supermicro,USA,SMCI,ok
+SYF,Synchrony Financial,USA,SYF,ok
+SNPS,Synopsys,USA,SNPS,ok
+SYY,Sysco,USA,SYY,ok
+TMUS,T-Mobile US,USA,TMUS,ok
+TROW,T. Rowe Price,USA,TROW,ok
+TTWO,Take-Two Interactive,USA,TTWO,ok
+TPR,"Tapestry, Inc.",USA,TPR,ok
+TRGP,Targa Resources,USA,TRGP,ok
+TGT,Target Corporation,USA,TGT,ok
+TEL,TE Connectivity,USA,TEL,ok
+TDY,Teledyne Technologies,USA,TDY,ok
+TER,Teradyne,USA,TER,ok
+TSLA,"Tesla, Inc.",USA,TSLA,ok
+TXN,Texas Instruments,USA,TXN,ok
+TPL,Texas Pacific Land Corporation,USA,TPL,ok
+TXT,Textron,USA,TXT,ok
+TMO,Thermo Fisher Scientific,USA,TMO,ok
+TJX,TJX Companies,USA,TJX,ok
+TKO,TKO Group Holdings,USA,TKO,ok
+TTD,Trade Desk (The),USA,TTD,ok
+TSCO,Tractor Supply,USA,TSCO,ok
+TT,Trane Technologies,USA,TT,ok
+TDG,TransDigm Group,USA,TDG,ok
+TRV,Travelers Companies (The),USA,TRV,ok
+TRMB,Trimble Inc.,USA,TRMB,ok
+TFC,Truist Financial,USA,TFC,ok
+TYL,Tyler Technologies,USA,TYL,ok
+TSN,Tyson Foods,USA,TSN,ok
+USB,U.S. Bancorp,USA,USB,ok
+UBER,Uber,USA,UBER,ok
+UDR,"UDR, Inc.",USA,UDR,ok
+ULTA,Ulta Beauty,USA,ULTA,ok
+UNP,Union Pacific Corporation,USA,UNP,ok
+UAL,United Airlines Holdings,USA,UAL,ok
+UPS,United Parcel Service,USA,UPS,ok
+URI,United Rentals,USA,URI,ok
+UNH,UnitedHealth Group,USA,UNH,ok
+UHS,Universal Health Services,USA,UHS,ok
+VLO,Valero Energy,USA,VLO,ok
+VTR,Ventas,USA,VTR,ok
+VLTO,Veralto,USA,VLTO,ok
+VRSN,Verisign,USA,VRSN,ok
+VRSK,Verisk Analytics,USA,VRSK,ok
+VZ,Verizon,USA,VZ,ok
+VRTX,Vertex Pharmaceuticals,USA,VRTX,ok
+VTRS,Viatris,USA,VTRS,ok
+VICI,Vici Properties,USA,VICI,ok
+V,Visa Inc.,USA,V,ok
+VST,Vistra Corp.,USA,VST,ok
+VMC,Vulcan Materials Company,USA,VMC,ok
+WRB,W. R. Berkley Corporation,USA,WRB,ok
+GWW,W. W. Grainger,USA,GWW,ok
+WAB,Wabtec,USA,WAB,ok
+WMT,Walmart,USA,WMT,ok
+DIS,Walt Disney Company (The),USA,DIS,ok
+WBD,Warner Bros. Discovery,USA,WBD,ok
+WM,Waste Management,USA,WM,ok
+WAT,Waters Corporation,USA,WAT,ok
+WEC,WEC Energy Group,USA,WEC,ok
+WFC,Wells Fargo,USA,WFC,ok
+WELL,Welltower,USA,WELL,ok
+WST,West Pharmaceutical Services,USA,WST,ok
+WDC,Western Digital,USA,WDC,ok
+WY,Weyerhaeuser,USA,WY,ok
+WSM,"Williams-Sonoma, Inc.",USA,WSM,ok
+WMB,Williams Companies,USA,WMB,ok
+WTW,Willis Towers Watson,USA,WTW,ok
+WDAY,"Workday, Inc.",USA,WDAY,ok
+WYNN,Wynn Resorts,USA,WYNN,ok
+XEL,Xcel Energy,USA,XEL,ok
+XYL,Xylem Inc.,USA,XYL,ok
+YUM,Yum! Brands,USA,YUM,ok
+ZBRA,Zebra Technologies,USA,ZBRA,ok
+ZBH,Zimmer Biomet,USA,ZBH,ok
+ZTS,Zoetis,USA,ZTS,ok
+FEMSAUBD,Fomento Economico Mexicano,MEX,FEMSAUBD.MX,ok
+TLEVISACPO,Grupo Televisa,MEX,TLEVISACPO.MX,ok
+GMEXICOB,Grupo Mexico,MEX,GMEXICOB.MX,ok
+GFNORTEO,Grupo Financiero Banorte,MEX,GFNORTEO.MX,ok
+CEMEXCPO,Cemex,MEX,CEMEXCPO.MX,ok
+ALFAA,Grupo Alfa,MEX,ALFAA.MX,ok
+GFINBURO,Grupo Financiero Inbursa,MEX,GFINBURO.MX,ok
+ELEKTRA,Grupo Elektra,MEX,ELEKTRA.MX,ok
+BIMBOA,Grupo Bimbo,MEX,BIMBOA.MX,ok
+AC,Arca Continental,MEX,AC.MX,ok
+LABB,Genomma Lab Internacional,MEX,LABB.MX,ok
+LIVEPOLC-1,El Puerto de Liverpool,MEX,LIVEPOLC-1.MX,ok
+ASURB,Grupo Aeroportuario del Sureste,MEX,ASURB.MX,ok
+GAPB,Grupo Aeroportuario del Pacifico,MEX,GAPB.MX,ok
+ALPEKA,Alpek,MEX,ALPEKA.MX,ok
+ICA,Empresas ICA,MEX,ICA.MX,ok
+ICHB,Industrias Ch,MEX,ICHB.MX,ok
+BOLSAA,Bolsa Mexicana de Valores,MEX,BOLSAA.MX,ok
+AZTECACPO,TV Azteca,MEX,AZTECACPO.MX,ok
+GRUMAB,Grupo Maseca,MEX,GRUMAB.MX,ok
+ALSEA,Controladora Alsea,MEX,ALSEA.MX,ok
+GCARSOA1,Grupo Carso,MEX,GCARSOA1.MX,ok
+PINFRA,Pinfra,MEX,PINFRA.MX,ok
+PE&OLES,Industrias Penoles,MEX,PE&OLES.MX,ok
+GCC,Grupo Cementos de Chihuahua,MEX,GCC.MX,ok
+CUERVO,"Becle, S.A.B. de C.V.",MEX,CUERVO.MX,ok
+FUNO11,Fibra Uno,MEX,FUNO11.MX,ok
+DANHOS13,Fibra Danhos,MEX,DANHOS13.MX,ok
+FIBRAMQ12,Fibra Macquarie,MEX,FIBRAMQ12.MX,ok
+FIHO12,Fibra Hotel,MEX,FIHO12.MX,ok
+FNOVA17,Fibra Nova,MEX,FNOVA17.MX,ok
+FIBRAPL14,Fibra Prologis,MEX,FIBRAPL14.MX,ok
+TERRA13,Fibra Terrafina,MEX,TERRA13.MX,ok
+FSHOP13,Fibra Shop,MEX,FSHOP13.MX,ok
+FPLUS16,Fibra Plus,MEX,FPLUS16.MX,ok
+FMTY14,Fibra MTY,MEX,FMTY14.MX,ok
+WALMEX,Walmex,MEX,WALMEX.MX,ok
+KOFUBL.MX,Coca-Cola FEMSA,MEX,KOFUBL.MX,ok
+KIMBERB.MX,Kimberly Clark,MEX,KIMBERB.MX,ok
+GENTERA.MX,Gentera,MEX,GENTERA.MX,ok
+RA.MX,Regional,MEX,RA.MX,ok
+LACOMERUBC.MX,La Comer,MEX,LACOMERUBC.MX,ok
+SANN.MX,Banco Santander,MEX,SANN.MX,ok
+MELI,MercadoLibre,ARG,MELI,ok
+YPF,YPF,ARG,YPF,ok
+GGAL,Grupo Financiero Galicia,ARG,GGAL,ok
+BMA,Banco Macro,ARG,BMA,ok
+PAM,Pampa Energia,ARG,PAM,ok
+TEO,Telecom Argentina,ARG,TEO,ok
+LOMA,Loma Negra,ARG,LOMA,ok
+CEPU,Central Puerto,ARG,CEPU,ok
+ITUB,Itau Unibanco,BRA,ITUB,ok
+VALE,Vale,BRA,VALE,ok
+PBR,Petrobras,BRA,PBR,ok
+ABEV,Ambev,BRA,ABEV,ok
+GGB,Gerdau,BRA,GGB,ok
+ERJ,Embraer,BRA,ERJ,ok
+STNE,StoneCo,BRA,STNE,ok
+PAGS,PagSeguro Digital,BRA,PAGS,ok
+TIMB,TIM S.A.,BRA,TIMB,ok
+XP,XP Inc.,BRA,XP,ok
+SHOP,Shopify,CAN,SHOP,ok
+TD,Toronto-Dominion Bank,CAN,TD,ok
+RY,Royal Bank of Canada,CAN,RY,ok
+BNS,Bank of Nova Scotia,CAN,BNS,ok
+CM,CIBC,CAN,CM,ok
+ENB,Enbridge,CAN,ENB,ok
+SU,Suncor Energy,CAN,SU,ok
+CNQ,Canadian Natural Resources,CAN,CNQ,ok
+NTR,Nutrien,CAN,NTR,ok
+BCE,BCE,CAN,BCE,ok
+TU,TELUS,CAN,TU,ok
+HSBC,HSBC Holdings,GBR,HSBC,ok
+UL,Unilever PLC,GBR,UL,ok
+AZN,AstraZeneca,GBR,AZN,ok
+DEO,Diageo,GBR,DEO,ok
+BP,BP,GBR,BP,ok
+SHEL,Shell,GBR,SHEL,ok
+RIO,Rio Tinto,GBR,RIO,ok
+BTI,British American Tobacco,GBR,BTI,ok
+NGG,National Grid,GBR,NGG,ok
+RELX,RELX PLC,GBR,RELX,ok
+GSK,GSK,GBR,GSK,ok
+SAP,SAP SE,DEU,SAP,ok
+SI,Siemens,DEU,SI,ok
+TTE,TotalEnergies,FRA,TTE,ok
+SNY,Sanofi,FRA,SNY,ok
+ASML,ASML Holding,NLD,ASML,ok
+NVO,Novo Nordisk,DNK,NVO,ok
+UBS,UBS Group,CHE,UBS,ok
+NVS,Novartis,CHE,NVS,ok
+TEF,Telefónica,ESP,TEF,ok
+E,ENI,ITA,E,ok
+STM,STMicroelectronics,ITA,STM,ok
+EQNR,Equinor,NOR,EQNR,ok
+BUD,Anheuser-Busch InBev,BEL,BUD,ok
+SONY,Sony Group,JPN,SONY,ok
+TM,Toyota Motor,JPN,TM,ok
+HMC,Honda Motor,JPN,HMC,ok
+BABA,Alibaba Group,CHN,BABA,ok
+JD,JD.com,CHN,JD,ok
+PDD,PDD Holdings,CHN,PDD,ok
+NIO,NIO,CHN,NIO,ok
+LI,Li Auto,CHN,LI,ok
+XPEV,XPeng,CHN,XPEV,ok
+YUMC,Yum China Holdings,CHN,YUMC,ok
+BEKE,KE Holdings,CHN,BEKE,ok
+BILI,Bilibili,CHN,BILI,ok
+TSM,Taiwan Semiconductor,TWN,TSM,ok
+UMC,United Microelectronics,TWN,UMC,ok
+ASX,ASE Technology,TWN,ASX,ok
+KT,KT Corporation,KOR,KT,ok
+KB,KB Financial Group,KOR,KB,ok
+PKX,POSCO Holdings,KOR,PKX,ok
+KEP,Korea Electric Power,KOR,KEP,ok
+INFY,Infosys,IND,INFY,ok
+WIT,Wipro,IND,WIT,ok
+HDB,HDFC Bank,IND,HDB,ok
+IBN,ICICI Bank,IND,IBN,ok
+SE,Sea Limited,SGP,SE,ok
+BHP,BHP Group,AUS,BHP,ok
+WDS,Woodside Energy Group,AUS,WDS,ok

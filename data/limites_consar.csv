@@ -1,0 +1,20 @@
+﻿Categoría,95-99,90-94,85-89,80-84,75-79,70-74,65-69,60-64
+Valores Extranjeros,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Renta Variable,0.5977,0.5793,0.5558,0.5264,0.4858,0.4227,0.3218,0.1708
+Instrumentos en Divisas,0.3493,0.3434,0.3359,0.3263,0.3115,0.2805,0.2343,0.1632
+Instrumentos Bursatilizados,0.398,0.3795,0.3541,0.3255,0.2973,0.2606,0.227,0.2047
+Instrumentos Estructurados,0.3,0.2978,0.2828,0.2643,0.2261,0.1879,0.1497,0.1115
+FIBRAS / REITs,0.1,0.1,0.1,0.1,0.0979,0.0836,0.0693,0.055
+Mercancías,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Gobierno Federal (soberano MX),1,1,1,1,1,1,1,1
+Deuda EPE (mxBBB a mxAAA),0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Deuda corporativa (mxBBB a mxAAA),0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Deuda subordinada,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Deuda híbridos,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Fibras / inmobiliarios,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+Estructurados (CKD/CERPIs),0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03
+Un solo emisor extranjero (BBB- a AAA),0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+VaR,0.013,0.013,0.013,0.013,0.013,0.013,0.013,0.0082
+Diferencial del Valor en Riesgo Condicional,0.013,0.012,0.011,0.01,0.009,0.008,0.007,0.006
+Coeficiente de liquidez,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8
+Error de Seguimiento / Tracking Error,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05

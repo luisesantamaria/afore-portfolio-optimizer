@@ -1,0 +1,9 @@
+altair
+numpy
+pandas
+plotly
+requests
+scipy
+streamlit
+streamlit-searchbox
+yfinance

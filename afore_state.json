@@ -1,0 +1,323 @@
+{
+  "_eq_last_picks": [
+    "Nvidia (NVDA)",
+    "MercadoLibre (MELI)",
+    "SAP SE (SAP)",
+    "HSBC Holdings (HSBC)",
+    "Itau Unibanco (ITUB)",
+    "Cemex (CEMEXCPO.MX)",
+    "Grupo Mexico (GMEXICOB.MX)",
+    "Grupo Aeroportuario del Pacifico (GAPB.MX)",
+    "Controladora Alsea (ALSEA.MX)",
+    "Industrias Penoles (PE&OLES.MX)",
+    "Fibra Danhos (DANHOS13.MX)",
+    "Fibra MTY (FMTY14.MX)",
+    "Fibra Prologis (FIBRAPL14.MX)",
+    "Fibra Terrafina (TERRA13.MX)",
+    "Fibra Uno (FUNO11.MX)"
+  ],
+  "afore_selected": "Profuturo",
+  "eq_picks": [
+    "Nvidia (NVDA)",
+    "Toyota Motor (TM)",
+    "SAP SE (SAP)",
+    "Unilever PLC (UL)",
+    "Gerdau (GGB)",
+    "Cemex (CEMEXCPO.MX)",
+    "Grupo Mexico (GMEXICOB.MX)",
+    "Coca-Cola FEMSA (KOFUBL.MX)",
+    "Walmex (WALMEX.MX)",
+    "Industrias Penoles (PE&OLES.MX)",
+    "Fibra Danhos (DANHOS13.MX)",
+    "Fibra MTY (FMTY14.MX)",
+    "Fibra Prologis (FIBRAPL14.MX)",
+    "Fibra Terrafina (TERRA13.MX)",
+    "Fibra Uno (FUNO11.MX)"
+  ],
+  "equity_selection": {
+    "NVDA": {
+      "name": "Nvidia",
+      "index": "USA"
+    },
+    "TM": {
+      "name": "Toyota Motor",
+      "index": "JPN"
+    },
+    "SAP": {
+      "name": "SAP SE",
+      "index": "DEU"
+    },
+    "UL": {
+      "name": "Unilever PLC",
+      "index": "GBR"
+    },
+    "GGB": {
+      "name": "Gerdau",
+      "index": "BRA"
+    },
+    "CEMEXCPO.MX": {
+      "name": "Cemex",
+      "index": "MEX"
+    },
+    "GMEXICOB.MX": {
+      "name": "Grupo Mexico",
+      "index": "MEX"
+    },
+    "KOFUBL.MX": {
+      "name": "Coca-Cola FEMSA",
+      "index": "MEX"
+    },
+    "WALMEX.MX": {
+      "name": "Walmex",
+      "index": "MEX"
+    },
+    "PE&OLES.MX": {
+      "name": "Industrias Penoles",
+      "index": "MEX"
+    },
+    "DANHOS13.MX": {
+      "name": "Fibra Danhos",
+      "index": "MEX"
+    },
+    "FMTY14.MX": {
+      "name": "Fibra MTY",
+      "index": "MEX"
+    },
+    "FIBRAPL14.MX": {
+      "name": "Fibra Prologis",
+      "index": "MEX"
+    },
+    "TERRA13.MX": {
+      "name": "Fibra Terrafina",
+      "index": "MEX"
+    },
+    "FUNO11.MX": {
+      "name": "Fibra Uno",
+      "index": "MEX"
+    }
+  },
+  "fi_rows": [
+    {
+      "row_id": 5,
+      "Bono": "ARCA",
+      "País": "México",
+      "Tipo de bono": "Bono corporativo",
+      "COUPON (%)": 9.85,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2017-03-29",
+      "Maturity": "2032-03-29",
+      "Fitch": "mxAA+",
+      "Nominal": 100.0,
+      "Rend (%)": 9.46,
+      "Benchmark (%)": 7.73,
+      "Spread (pp)": 1.73,
+      "Último Cupón": "2025-09-29",
+      "Siguiente Cupón": "2026-03-29",
+      "Intereses D": 0.272099,
+      "Precio Sucio": 97.510083,
+      "Precio Limpio": 97.237983,
+      "_benchmark_name": "MBono 20y (Banxico 16/03/2017)"
+    },
+    {
+      "row_id": 6,
+      "Bono": "FEMSA",
+      "País": "México",
+      "Tipo de bono": "Bono corporativo",
+      "COUPON (%)": 8.11,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2022-03-11",
+      "Maturity": "2027-09-11",
+      "Fitch": "mxAA+",
+      "Nominal": 100.0,
+      "Rend (%)": 9.137,
+      "Benchmark (%)": 8.6,
+      "Spread (pp)": 0.537,
+      "Último Cupón": "2025-09-11",
+      "Siguiente Cupón": "2026-03-11",
+      "Intereses D": 0.627293,
+      "Precio Sucio": 94.523164,
+      "Precio Limpio": 93.895871,
+      "_benchmark_name": "MBono 10y (Banxico 10/03/2022)"
+    },
+    {
+      "row_id": 7,
+      "Bono": "BIMBO",
+      "País": "México",
+      "Tipo de bono": "Bono corporativo",
+      "COUPON (%)": 7.5,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2025-02-11",
+      "Maturity": "2028-02-11",
+      "Fitch": "mxAAA",
+      "Nominal": 100.0,
+      "Rend (%)": 9.09,
+      "Benchmark (%)": 9.53,
+      "Spread (pp)": -0.44,
+      "Último Cupón": "2025-08-11",
+      "Siguiente Cupón": "2026-02-11",
+      "Intereses D": 1.202446,
+      "Precio Sucio": 93.643625,
+      "Precio Limpio": 92.441179,
+      "_benchmark_name": "MBono 3y (Banxico 30/01/2025)"
+    },
+    {
+      "row_id": 8,
+      "Bono": "Alphabet",
+      "País": "EE.UU.",
+      "Tipo de bono": "Bono temático (verde/social/sustentable)",
+      "COUPON (%)": 1.1,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2020-08-05",
+      "Maturity": "2030-08-15",
+      "Fitch": "AAA",
+      "Nominal": 100.0,
+      "Rend (%)": 3.9,
+      "Benchmark (%)": 3.853,
+      "Spread (pp)": 0.047,
+      "Último Cupón": "2025-08-05",
+      "Siguiente Cupón": "2026-02-05",
+      "Intereses D": 0.195556,
+      "Precio Sucio": 86.310511,
+      "Precio Limpio": 86.114955,
+      "_benchmark_name": "T-Bill 3M (IRX)"
+    },
+    {
+      "row_id": 13,
+      "Bono": "CETES 364d",
+      "País": "México",
+      "Tipo de bono": "Bono gubernamental",
+      "Subtipo (Gob)": "CETES",
+      "COUPON (%)": 0.0,
+      "Frecuencia": "Cero cupón",
+      "Liquidación": "2025-10-16",
+      "Maturity": "2026-10-15",
+      "Fitch": "Soberano MX",
+      "Nominal": 10.0,
+      "Rend (%)": 7.51,
+      "Benchmark (%)": 7.51,
+      "Spread (pp)": 0.0,
+      "Último Cupón": "—",
+      "Siguiente Cupón": "2026-10-15",
+      "Intereses D": 0.0,
+      "Precio Sucio": 9.303306,
+      "Precio Limpio": 9.303306,
+      "_benchmark_name": "CETES 364d (Banxico 16/10/2025)"
+    },
+    {
+      "row_id": 15,
+      "Bono": "Bondes D 2y",
+      "País": "México",
+      "Tipo de bono": "Bono gubernamental",
+      "Subtipo (Gob)": "BONDES D",
+      "COUPON (%)": 7.013,
+      "Frecuencia": "Mensual",
+      "Liquidación": "2025-10-16",
+      "Maturity": "2027-10-16",
+      "Fitch": "Soberano MX",
+      "Nominal": 100.0,
+      "Rend (%)": 7.013,
+      "Benchmark (%)": 7.8,
+      "Spread (pp)": -0.787,
+      "Último Cupón": "—",
+      "Siguiente Cupón": "2025-11-16",
+      "Intereses D": 0.0,
+      "Precio Sucio": 99.418981,
+      "Precio Limpio": 99.418981,
+      "_benchmark_name": "MBono 3y (Banxico 02/10/2025)"
+    },
+    {
+      "row_id": 18,
+      "Bono": "MBono 5y",
+      "País": "México",
+      "Tipo de bono": "Bono gubernamental",
+      "Subtipo (Gob)": "MBONO",
+      "COUPON (%)": 8.12,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2025-10-16",
+      "Maturity": "2030-10-16",
+      "Fitch": "Soberano MX",
+      "Nominal": 100.0,
+      "Rend (%)": 8.12,
+      "Benchmark (%)": 8.12,
+      "Spread (pp)": 0.0,
+      "Último Cupón": "—",
+      "Siguiente Cupón": "2026-04-16",
+      "Intereses D": 0.0,
+      "Precio Sucio": 96.098405,
+      "Precio Limpio": 96.098405,
+      "_benchmark_name": "MBono 5y (Banxico 16/10/2025)"
+    },
+    {
+      "row_id": 19,
+      "Bono": "Udibono 10y",
+      "País": "México",
+      "Tipo de bono": "Bono gubernamental",
+      "Subtipo (Gob)": "UDIBONO",
+      "COUPON (%)": 8.5644,
+      "Frecuencia": "Semestral",
+      "Liquidación": "2025-10-16",
+      "Maturity": "2035-10-16",
+      "Fitch": "Soberano MX",
+      "Nominal": 100.0,
+      "Rend (%)": 8.5644,
+      "Benchmark (%)": 8.79,
+      "Spread (pp)": -0.2256,
+      "Último Cupón": "—",
+      "Siguiente Cupón": "2026-04-16",
+      "Intereses D": 0.0,
+      "Precio Sucio": 95.893634,
+      "Precio Limpio": 95.893634,
+      "_benchmark_name": "MBono 10y (Banxico 18/09/2025)"
+    }
+  ],
+  "fx_picks": [
+    "MXN/USD",
+    "MXN/CAD",
+    "MXN/BRL"
+  ],
+  "fx_selection": {
+    "Peso Mexicano/Dólar Estadounidense (MXN-USD)": {
+      "name": "Peso Mexicano/Dólar Estadounidense (MXN-USD)",
+      "pair": "MXN/USD",
+      "mu": 0.032192051867970375,
+      "sigma": 0.11139569175164156,
+      "yahoo_ticker": "MXNUSD=X",
+      "inverse": false
+    },
+    "Peso Mexicano/Dólar Canadiense (MXN-CAD)": {
+      "name": "Peso Mexicano/Dólar Canadiense (MXN-CAD)",
+      "pair": "MXN/CAD",
+      "mu": 0.04235175114803771,
+      "sigma": 0.10220743061622377,
+      "yahoo_ticker": "MXNCAD=X",
+      "inverse": false
+    },
+    "Peso Mexicano/Real Brasileño (MXN-BRL)": {
+      "name": "Peso Mexicano/Real Brasileño (MXN-BRL)",
+      "pair": "MXN/BRL",
+      "mu": 0.03201729155376437,
+      "sigma": 0.15941980981472592,
+      "yahoo_ticker": "MXNBRL=X",
+      "inverse": false
+    }
+  },
+  "siefore_selected": "Básica 95-99",
+  "structured_notes": [
+    {
+      "note_id": "0a9ec18d663343abbc8b3a3403de34b8",
+      "subyacente": "Cemex",
+      "spot": 16.53,
+      "K1": 16.0,
+      "K2": 20.6,
+      "plazo_d": 360,
+      "r_pct": 7.7,
+      "vol_pct": 58.0,
+      "mu_ann_pct": 8.109019619322037,
+      "vol_ann_pct": 9.700952936830461,
+      "sharpe": 0.8358992845471378,
+      "Borrar": false,
+      "ticker": "CEMEXCPO.MX",
+      "name": "Nota Cemex"
+    }
+  ]
+}

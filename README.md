@@ -1,13 +1,15 @@
 # Afore Portfolio Optimizer
 
+[![Launch App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://afore-portfolio-optimizer.streamlit.app/)
+
 From regulatory complexity to your most efficient retirement portfolio.
 
 This project is an interactive dashboard for analyzing and optimizing Mexican pension funds (Afores). It allows users to compare their current Siefore against a competitor, construct a custom asset portfolio, and calculate the optimal, efficient composition—all while adhering to the official CONSAR regulatory limits.
 
 ## Quick Access
 
-* **Dashboard:** `Streamlit App` (via `app.py`)
-* **Analysis Notebook:** `notebook.ipynb`
+- Dashboard: [Streamlit App](https://company-valuation.streamlit.app)  
+- Notebook: [`notebook.ipynb`](notebook.ipynb)
 
 ## Highlights
 
